@@ -1,5 +1,7 @@
 $1-9
 $10-${n}
+$- variable name
+vi - navigate directory name
 #0-name of script
 *-all the arguments as a single string
 @-same as $.
